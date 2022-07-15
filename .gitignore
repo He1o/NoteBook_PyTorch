@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.vscode
+.DS_Store
+__pycache__
+road-net-data
+data
+log_data
+result
+routing_local
+useless
+test
+*.log
